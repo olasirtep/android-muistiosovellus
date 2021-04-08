@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SimpleMemo</string>
+    <string name="new_file">New memo</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="new_file_alert_title">Are you sure?</string>
+    <string name="new_file_alert_text">Current changes will be lost</string>
+    <string name="new_file_canceled">New file cancelled</string>
+</resources>

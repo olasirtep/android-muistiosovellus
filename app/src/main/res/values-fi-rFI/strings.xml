@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SimpleMemo</string>
+    <string name="new_file">Uusi muistiinpano</string>
+    <string name="yes">Kyllä</string>
+    <string name="no">Ei</string>
+    <string name="new_file_alert_title">Oletko varma?</string>
+    <string name="new_file_alert_text">Nykyiset muutokset menetetään</string>
+    <string name="new_file_canceled">Uutta tiedostoa ei luotu</string>
+</resources>
